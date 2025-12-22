@@ -22,3 +22,4 @@ pip install pyobjc
 ## weather examples
 
 ![GIF](gifs/rain-example.gif)
+![GIF](gifs/snow-example.gif)
