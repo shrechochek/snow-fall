@@ -17,3 +17,8 @@ pip install pyobjc
 ```
 
 3. ### set up your weather in CONFIG and run it
+
+
+## weather examples
+
+![GIF](gifs/rain-example.gif)
