@@ -1,25 +1,25 @@
 # snow-fall (macOS only)
+> Application with which you can create your own custom weather that will be displayed on your screen.
 
-## what is it 
+---
 
-### This is an application with which you can create your own custom weather that will be displayed on your screen.
+## How to start?
 
-## how to start
-
-1. ### clone project
+1. Clone repository
 ```terminal
 git clone https://github.com/shrechochek/snow-fall/
 ```
 
-2. ### install libraries
+2. Install libraries
 ```terminal
 pip install pyobjc
 ```
 
-3. ### set up your weather in CONFIG and run it
+3. Set up your weather in `CONFIG` and run app
 
+---
 
-## weather examples
+## Weather examples
 
 ![GIF](gifs/rain-example.gif)
 ![GIF](gifs/snow-example.gif)
